@@ -1,4 +1,4 @@
-# Autism-Detection-Using-Video-Classification
+# Autism Detection Using Video Classification
 
 📜 Project Overview
 
